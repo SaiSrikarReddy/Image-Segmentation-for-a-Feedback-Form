@@ -10,7 +10,7 @@
 * Our algorithm is used as the first stage of that review form i.e, Segmentation of question and answer.
 
 ## Solution
-> Solution would be a two level segmentation
+> Solution will be a two level segmentation
 ### First_level_Segmentation
 * For this you need to refer first_level_segmentation.py
 * In this first level it divides each block/box of text(you can see in data/Level_1)
